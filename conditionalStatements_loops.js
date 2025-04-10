@@ -136,20 +136,17 @@ do {
 } while (i <= 100);
 console.log(total);
 
-// 3
-/*
+// 3/*
 let userInput;
 do {
     userInput = prompt("Enter a number greater than 10:");
 } while (userInput <= 10);
-*/
 
-// 4
-/*
+
+// 4/*
 const secretNumber = Math.floor(Math.random() * 10) + 1;
 let guess;
 do {
     guess = parseInt(prompt("Guess a number between 1 and 10:"));
 } while (guess !== secretNumber);
 console.log("Congratulations! You guessed the correct number.");
-*/
