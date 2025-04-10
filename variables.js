@@ -18,3 +18,4 @@ let difference = num1 - num2;
 let product = num1 * num2;
 let quotient = num1 / num2;
 console.log(sum, difference, product, quotient);
+
